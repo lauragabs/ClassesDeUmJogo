@@ -1,7 +1,7 @@
 
 # 🛡️ Classes de um Jogo
 
-O projeto consiste em criar uma classe genérica que represente um herói de uma aventura, com algumas propriedades e um método para realizar um ataque. O projeto visa reforçar os conhecimentos adquiridos durante o curso, incluindo a implementação de classes e métodos.
+O projeto consiste em criar uma classe genérica que represente um herói de uma aventura, com algumas propriedades e um método para realizar um ataque. O projeto visa reforçar os conhecimentos adquiridos, incluindo a implementação de classes e métodos.
 
 ## Especificação da Classe Heroi
 
