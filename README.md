@@ -44,5 +44,3 @@ O ninja atacou usando shuriken
 - Estruturas de controle (if/else)
 - Funções
 - Classes e Objetos
-
-
